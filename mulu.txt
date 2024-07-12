@@ -1,0 +1,9 @@
+admin.php
+admin.html
+admin.htm
+login.php
+login.html
+login.htm
+index.php
+index.html
+index.htm
